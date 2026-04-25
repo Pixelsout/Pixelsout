@@ -1,65 +1,229 @@
-![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
-<h1 align="center">Hi 👋, I'm Biswajeet Rout-AI/ML Engineer</h1>
-<h3 align="center">Passionate about building intelligent systems that make data talk.</h3>
+<!-- ============================================================ -->
+<!--              BISWAJEET ROUT — GITHUB PROFILE README          -->
+<!-- ============================================================ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelsout&label=Profile%20views&color=0e75b6&style=flat" alt="pixelsout" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pixelsout" alt="pixelsout" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=230&section=header&text=Biswajeet%20Rout&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=34&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Fine-tuning+LLMs+%7C+RAG+Systems;Building+end-to-end+ML+Pipelines+%F0%9F%9A%80;4AM+Club+%E2%80%94+Shipping+before+sunrise+%E2%98%80%EF%B8%8F;DEVTrails+2026+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
+</a>
 
-</p>
+<br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=pixelsout&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/pixelsout?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS" />
+&nbsp;
+<a href="https://www.linkedin.com/in/biswajeet-rout-0712b1288">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:biswajeetrout574@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pixelsout&show_icons=true&locale=en&layout=compact" alt="pixelsout" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pixelsout&show_icons=true&locale=en" alt="pixelsout" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsout&" alt="pixelsout" /></p>
-
-🔍 I specialize in:
-- Deep Learning (CNNs, RNNs, Transformers)
-- Natural Language Processing & Computer Vision
-- Building end-to-end ML pipelines
-
-🚀 I believe in rapid prototyping, clean code, and scalable AI solutions.
-
-💡 Currently exploring:
-- Fine-tuning LLMs (like GPT/LLama2)
-- Real-time inference systems
-- Responsible AI & model explainability
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-**Languages:**  
-`Python` • `C++` • `SQL` • `Java`
+```yaml
+name        : Biswajeet Rout
+role        : AI / ML Engineer & Full-Stack Builder
+location    : India 🇮🇳
+education   : Computer Science (currently studying)
+team        : 4AM Club 🌙
 
-**Machine Learning & Deep Learning:**  
-`PyTorch` • `TensorFlow` • `Scikit-learn`  • `HuggingFace` • `OpenCV`
+specializes_in:
+  - Deep Learning (CNNs, RNNs, Transformers)
+  - NLP · LLM Fine-Tuning · RAG Systems
+  - Computer Vision (YOLO, CLIP, MediaPipe)
+  - End-to-End ML Pipelines & Deployment
 
-**NLP & CV:**  
-`spaCy` • `Tesseract` • `YOLO` • `CLIP` • `MediaPipe`
+currently_exploring:
+  - Fine-tuning LLMs (LLaMA, GPT)
+  - Real-time Inference Systems
+  - Responsible AI & Model Explainability
+  - Parametric Insurance × ML (Clad @ DEVTrails 2026)
 
-**Model Ops & Tracking:**  
-`MLflow` • `Weights & Biases`  • `Airflow` 
-
-**Deployment & APIs:**  
-`FastAPI` • `Flask` • `Streamlit` • `Docker` • `GitHub Actions`
-
-**Data & Visualization:**  
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`  • `TensorBoard`
-
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/biswajeet-rout-0712b1288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- ✉️ Email: biswajeetrout574@gmail.com
+fun_fact    : "I debug at 4AM and ship by sunrise ☀️"
+motto       : "Code the future. One model at a time."
+```
 
 ---
 
-_“Code the future. One model at a time.”_
+## 🚀 Featured Project — Clad
 
+<div align="center">
+
+| Field | Details |
+|:---|:---|
+| 🏆 **Competition** | Guidewire DEVTrails 2026 — **Phase 2 Finalist** |
+| 🎯 **Problem** | Gig workers lose income during weather delays, outages & accidents |
+| ⚡ **Core Idea** | Automated parametric triggers — **no claims, instant payouts** |
+| 💸 **Payout** | UPI-based real-time disbursements |
+| 🤖 **ML Core** | Risk scoring engine + fraud defense system |
+| 🌐 **Deployed** | Live on Vercel |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### ML · DL · AI
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+
+</div>
+
+### Deployment & MLOps
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+### Data & Databases
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Animated Icon Strip
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,githubactions,vercel,postgres,mysql,java,js,cpp&theme=dark&perline=14" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/pixelsout">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixelsout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelsout&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelsout&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff44&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pixelsout&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pixelsout&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&hide_border=true" width="100%" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> ⚠️ **Setup required before this section shows.** Follow the steps below once — takes 2 minutes.
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pixelsout/pixelsout/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pixelsout/pixelsout/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pixelsout/pixelsout/output/github-snake.svg"/>
+</picture>
+</div>
+
+<details>
+<summary>⚙️ One-time snake setup (click to expand)</summary>
+
+**Step 1:** In your `pixelsout` profile repo, create the file `.github/workflows/snake.yml`
+
+**Step 2:** Paste this exact content:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: pixelsout
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Step 3:** Go to **Actions tab → Generate Snake → Run workflow**
+
+After it completes (~1 min), the snake animation will appear above and auto-update every 12 hours.
+
+</details>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Biswajeet%20Rout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswajeet-rout-0712b1288)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-biswajeetrout574%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswajeetrout574@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-pixelsout-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pixelsout)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
+
+*"Code the future. One model at a time."* — **Biswajeet Rout**
+
+</div>
