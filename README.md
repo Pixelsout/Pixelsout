@@ -167,44 +167,7 @@ motto       : "Code the future. One model at a time."
 </picture>
 </div>
 
-<details>
-<summary>⚙️ One-time snake setup (click to expand)</summary>
 
-**Step 1:** In your `pixelsout` profile repo, create the file `.github/workflows/snake.yml`
-
-**Step 2:** Paste this exact content:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: pixelsout
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 3:** Go to **Actions tab → Generate Snake → Run workflow**
-
-After it completes (~1 min), the snake animation will appear above and auto-update every 12 hours.
-
-</details>
-
----
 
 ## 🤝 Let's Connect
 
