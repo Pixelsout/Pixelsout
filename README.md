@@ -157,7 +157,6 @@ motto       : "Code the future. One model at a time."
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **Setup required before this section shows.** Follow the steps below once — takes 2 minutes.
 
 <div align="center">
 <picture>
